@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"><g fill="none" stroke="#3b63a8" stroke-width="1.4" opacity=".55" font-family="Georgia,serif" font-style="italic">
+<circle cx="420" cy="200" r="150"/><circle cx="420" cy="200" r="90"/><path d="M270 200h300M420 50v300M314 94l212 212M314 306l212-212"/>
+<path d="M180 330 Q300 40 560 330" /><text x="150" y="80" fill="#5f84c4" stroke="none" font-size="30">F = ma</text><text x="455" y="120" fill="#5f84c4" stroke="none" font-size="24">&#8721; 1/n&#178; = &#960;&#178;/6</text>
+<text x="200" y="370" fill="#5f84c4" stroke="none" font-size="24">&#8747; f(x) dx</text><text x="470" y="370" fill="#5f84c4" stroke="none" font-size="22">a&#178;+b&#178;=c&#178;</text></g></svg>
