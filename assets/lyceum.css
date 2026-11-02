@@ -39,6 +39,7 @@ h3{color:var(--navy);margin:24px 0 8px}
 .card h4{margin:6px 0 8px;font-size:19px;color:var(--navy);line-height:1.3}
 .card p{margin:0;color:var(--mut);font-size:15px}
 .ph{height:190px;background:linear-gradient(135deg,#1f4f9a,#14284b);display:flex;align-items:center;justify-content:center;color:rgba(255,255,255,.75);font:700 44px Georgia,serif}
+.pic{margin:0 0 22px}.pic img{width:100%;border-radius:10px;display:block}.pic figcaption{font-size:13px;color:var(--mut);margin-top:6px}
 .two{display:grid;grid-template-columns:1.2fr 1fr;gap:40px;align-items:start}
 .quote{border-left:4px solid var(--org);padding:6px 0 6px 20px;font-size:19px;color:var(--navy);font-style:italic}
 table{border-collapse:collapse;width:100%;margin:8px 0 18px;font-size:15px}
